@@ -1,4 +1,4 @@
-# 💫 Hey There 🙋‍♂️:
+# 💫 Hey There 🙋‍♂️
 🔗 I’m currently working on #web3 #blockchain #MERN<br>🌱 I’m looking to collaborate on #web3<br>🍁Ask me about #developing
 
 ---
@@ -24,6 +24,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
