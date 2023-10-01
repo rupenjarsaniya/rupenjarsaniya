@@ -4,7 +4,7 @@
     <h1 align="center">Rupenkumar Jarsaniya 😊</h1>
 </span>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hellow+There!;Welcome+to+My+Github%2C;Building+decentralized+solutions;Committing+to+a+decentralized,+open-source+future&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hellow+There!;Welcome+to+My+Github%2C;Decentralized+solutions;Open-source+future&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <br><br><br><br>
