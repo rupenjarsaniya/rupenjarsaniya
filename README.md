@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rupen</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<span align="center">
+    <h1 align="center">Rupenkumar Jarsaniya 😊</h1>
+</span>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hellow+There! 😃👋;Welcome+to+My+Github%2C;Building+decentralized+solutions;Committing+to+a+decentralized,+open-source+future&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<br><br><br><br>
+
+<h1 align="center">Hi 👋, I'm Rupenkumar</h1>
+<h3 align="center">A passionate Software engineer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupenjarsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="rupenjarsaniya" /> </p>
 
